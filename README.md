@@ -1,5 +1,5 @@
 
-# Proyecto Final - Sabores de Casa - Comisión 39i  Rolling Code
+# Proyecto Final - Menu - Propuesta gastronomica -Comisión 39i  Rolling Code
 
 App web desarrollada a partir de los conocimientos adquiridos en curso Full Stack - Rolling Code. 
 
